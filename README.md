@@ -2,7 +2,7 @@
 
 ![viewfinal](GalleryHorizontal.png)
 
-- [Demo Project]()
+- [Demo Project](https://amin-banam.github.io/Gallery_Horizontal/)
 
 - Developed by amin-banam
 
